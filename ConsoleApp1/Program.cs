@@ -39,7 +39,10 @@ namespace ConsoleApp1
                     default:
                         break;
                 }
-            }
+            } 
+
+
+
             Console.WriteLine($"条件:{text}");
 
 
